@@ -4,4 +4,4 @@
 
 # Install
 
-- [Link](https://github.com/ShiroOYuki/Userscript_tutorial/src/hackmd_theme.user.js)
+- [Link](https://github.com/ShiroOYuki/Userscript_tutorial/raw/main/src/hackmd_theme.user.js)
