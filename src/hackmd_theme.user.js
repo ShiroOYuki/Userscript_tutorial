@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hackmd Toggle Light
 // @namespace    http://tampermonkey.net/
-// @version      2024-07-28
+// @version      v0.0.1
 // @description  try to take over the world!
 // @author       Shiro
 // @match        https://hackmd.io/*
