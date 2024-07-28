@@ -17,7 +17,7 @@
         if (nav) {
             let btn = document.createElement("button");
             btn.textContent = "Switch Theme";
-            btn.style.color = "black";
+            btn.className = "rounded px-2.5 py-2 font-normal flex bg-transparent text-text-default border border-solid border-border-default hocus:bg-element-bg-hover hocus:border-element-border-hover hocus:text-text-emphasize focus:shadow-[0_0_0_2px_#77777733] disabled:bg-element-bg-disabled disabled:border-element-border-disabled disabled:text-element-text-disabled disabled:hocus:bg-element-bg-disabled disabled:hocus:border-element-border-disabled disabled:hocus:text-element-text-disabled disabled:border disabled:border-solid disabled:hocus:border disabled:hocus:border-solid community-button ui-view-theme gap-0.5 !py-1.5 !px-2 text-sm leading-sm small"
 
             btn.addEventListener("click", () => {
                 var page = document.querySelector("html");
